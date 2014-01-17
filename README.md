@@ -23,7 +23,6 @@ DB Configure(application_root_dir/config/database.js)
         driver: 'redis',
         host: '<VM IP>',
         port: <VM PORT>,
-        username: '<USER NAME>',
         password: 'PASSWORD',
         database: '0'
     }
